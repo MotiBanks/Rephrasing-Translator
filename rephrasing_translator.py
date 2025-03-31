@@ -7,7 +7,7 @@ st.title("😤 RePhrasing Translator")
 st.write("Enter what he said, and I'd show you what he *really* meant...")
 
 
-quote = st.text_input("He said:", placeholder="I'm totally fine.")
+quote = st.text_input("He said:", placeholder="oh fuck!")
 
 
 def translate(text):
