@@ -1,9 +1,9 @@
 import streamlit as st
 
 
-st.set_page_config(page_title="HeSaidWhatNow", layout="centered")
+st.set_page_config(page_title="RePhrasing Translator", layout="centered")
 
-st.title("😤 HeSaidWhatNow")
+st.title("😤 RePhrasing Translator")
 st.write("Enter what he said, and I'd show you what he *really* meant...")
 
 
